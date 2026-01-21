@@ -1,2 +1,2 @@
 # gedachtnis-web
-front end da listagem de anime
+front end da listagem de acompanhamento de  animes.
